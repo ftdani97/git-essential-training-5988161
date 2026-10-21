@@ -1,1 +1,1 @@
-This is a new line
+This is a new line, this is another change to create merge conflict!
